@@ -1,16 +1,45 @@
-## Hi there 👋
+## 👋 Hey there! I'm Ruchika Shashidhara 
 
-<!--
-**shashidhara-ruchika/shashidhara-ruchika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shashidhara-ruchika&left_color=gray&right_color=blue)
 
-Here are some ideas to get you started:
+Welcome! I'm an avid explorer of both code and the world. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Whether it's new technologies or new countries, I'm always on the move to explore 🚀
+
+---
+
+### 🔭 What I’m up to:
+- Currently diving deep into **System Design**, **Backend Development**, **Generative AI**, and **Cloud Computing**
+- Always looking to learn, unlearn, and grow with the tech community
+
+---
+
+### 👯 Let’s build something great!
+I’m excited to collaborate on:
+- 💡 Innovative and impactful tech projects  
+- 🧠 AI/ML experiments or backend architecture challenges  
+- 🌍 Anything that makes the world a little smarter or better  
+
+---
+
+### 💬 Ask me about:
+- Designing scalable systems  
+- Breaking into tech roles  
+- Learning strategies for tech stacks  
+- My travel stories and international experiences 🌐  
+
+---
+
+### 📫 Let’s connect!
+- 📧 [shashidhara.r@northeastern.edu](mailto:shashidhara.r@northeastern.edu)  
+- 📧 [ruchika2311s@gmail.com](mailto:ruchika2311s@gmail.com)  
+
+---
+
+### 😄 Pronouns:
+**She / Her**
+
+---
+
+### ⚡ Fun Fact:
+I’ve travelled to over **20 countries** and travelled to over **100 cities** – I believe every culture teaches you something new, just like every codebase!
