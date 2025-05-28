@@ -6,9 +6,11 @@
 
 Welcome! I'm an avid explorer of both code and the world. Whether it's new technologies or new countries, I'm always on the move to explore!
 
-I am a Computer Software Engineering Graduate Student at Northeastern University. My key areas of interest are Software Development, Software Design and Java Programming and I am aligning my coursework at Northeastern University to enhance and deepen my skills along with learning new industry trending technologies. I have 1.5 years of work experience as a Software Developer Engineer and 6 months of internship experience at First Help Financial (both Fin-Tech Product Startups). I have worked on building reliable and performant backend microservices using Java Spring for the Debt & Loan Origination Banking Products. Working in the Financial sector has provided me with the opportunities to learn and develop solutions for real-world applications.
+I am a Computer Software Engineering Graduate Student at Northeastern University. My key areas of interest are Software Development, Software Design and Java Programming and I am aligning my coursework at Northeastern University to enhance and deepen my skills along with learning new industry trending technologies.
 
-I am a problem solver and I love finding solutions to new and exciting problem statements. I am skilled in Data Structures and Algorithms, Object Oriented Programming, Java Programming, Microservices & REST API Development, Design Patterns, Software Development, and System Design. Recommendations given to me, highlight my maturity as an engineer, consistent performance, and ability to take up tasks with a great sense of responsibility. I am also praised for remaining calm under pressure, delivering under time constraints, and exhibiting extreme ownership. 
+I have 1.5 years of work experience as a Software Developer Engineer and 6 months of internship experience at First Help Financial (both Fin-Tech Product Startups). I have worked on building reliable and performant backend microservices using Java Spring for the Debt & Loan Origination Banking Products. Working in the Financial sector has provided me with the opportunities to learn and develop solutions for real-world applications.
+
+I am a problem solver and I love finding solutions to new and exciting problem statements. Recommendations given to me, highlight my maturity as an engineer, consistent performance, and ability to take up tasks with a great sense of responsibility. I am also praised for remaining calm under pressure, delivering under time constraints, and exhibiting extreme ownership!
 
 Connect with me: [linkedin.com/in/ruchika-shashidhara/](https://www.linkedin.com/in/ruchika-shashidhara/)
 
@@ -49,9 +51,6 @@ Connect with me: [linkedin.com/in/ruchika-shashidhara/](https://www.linkedin.com
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23blue.svg?style=flat&logo=githubactions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-
-
-
 
 
 ### 📋 Projects
