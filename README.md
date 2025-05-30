@@ -55,11 +55,26 @@ Connect with me: [linkedin.com/in/ruchika-shashidhara/](https://www.linkedin.com
 
 ### 📋 Projects
 
+- [Cloud Native Web App](https://github.com/shashidhara-ruchika/tf-gcp-infra) ([Infra](https://github.com/shashidhara-ruchika/tf-gcp-infra),  [Serverless](https://github.com/shashidhara-ruchika/serverless), [App](https://github.com/shashidhara-ruchika/webapp)) - Developed an efficient cloud-native web app managed through RESTful APIs & implemented robust GitHub DevOps workflow CI / CD pipelines. Configured custom Machine Images using Packer & utilized infrastructure-as-code with Terraform to efficiently create & manage resources, using instances, DNS, buckets, Load Balancers, Auto-scaling & Security Groups
+- [Spotify Track Analyzer](https://github.com/shashidhara-ruchika/SpotifyTrackAnalyzer) - Analyzer uses that Spark to fetch playlist tracks, identify the top songs & artists. It processes real time data in batches, leveraging Spotify APIs for track and artist details. The application handles API authentication, processes playlist data in batches, & queries artist details efficiently using Spark for distributed data processing.
+- [EnergX](https://github.com/shashidhara-ruchika/EnergX) - A digital wellness platform that helps users track their moods, visualize emotional trends, and identify energy-boosting activities. It empowers individuals to build mindful habits using daily mood tracking and activity analytics. Built during SheHacks 2025 at Northeastern Universty.
+- [Financial Budgeting Application](https://github.com/shashidhara-ruchika/Financial-Budgeting-appliation) - A robust relational database system in MySQL incorporating key concepts such as entity-relationship modeling, data normalization, SQL functions, ranking, automated payment & bill triggers, views, pivot table reporting to support a financial budgeting application, ensuring scalability, data integrity, and comprehensive reporting capabilities using Power BI
+- [GitHub Events Distributed Processing System](https://github.com/rohithreddykota/force) - This system is designed to efficiently process large datasets of GitHub Events API Payloads (GH Archive) by utilizing a distributed actor-based architecture. Built in Scala with Akka, the system partitions and replicates the dataset across worker actors, processes it locally, and provides various query-based functionalities for data analysts.
+- [TaskSphere](https://github.com/aashishrc/TaskSphere) - TaskSphere is a collaborative project and task management system inspired by Kanban principles. It offers a visual board for streamlined project organization, allowing users to create, assign, and track tasks effectively. With features such as detailed task management, real-time progress monitoring, and user assignments, TaskSphere facilitates seamless collaboration. 
+- [Uni-verse: Northeastern Event Community Web App](https://github.com/KetanKeshava/Universe) - A web application elevating the university experience by fostering student connections and exploring campus life. Implemented advanced functionalities such as generated event poster creation. Efficiently managed the application with state in the backend using MongoDB & frontend using React Hooks - Use Effects, and facilitated real-time messaging with Web Sockets, bolstering Uni-verse's user engagement
+- [NextStep](https://github.com/aashishrc/NextStep) - An app which helps users explore schools and opportunities, providing insights into colleges, scholarships, financial aid, and more. Built during CivicHacks 2025 Hackathon at Boston University
+  
+
+
+
 
 ### ⚡ Fun Fact:
 I’ve travelled to over **20 countries** and travelled to over **100 cities** – I believe every culture teaches you something new, just like every codebase!
 
 ### 📫 Let’s connect!
-- 📧 [shashidhara.r@northeastern.edu](mailto:shashidhara.r@northeastern.edu)  
-- 📧 [ruchika2311s@gmail.com](mailto:ruchika2311s@gmail.com)
-- 📧 [linkedin.com/in/ruchika-shashidhara/](https://www.linkedin.com/in/ruchika-shashidhara/)
+
+📧 [shashidhara.r@northeastern.edu](mailto:shashidhara.r@northeastern.edu)  
+
+📧 [ruchika2311s@gmail.com](mailto:ruchika2311s@gmail.com)
+
+📧 [linkedin.com/in/ruchika-shashidhara/](https://www.linkedin.com/in/ruchika-shashidhara/)
