@@ -6,13 +6,17 @@
 
 Welcome! I'm an avid explorer of both code and the world. Whether it's new technologies or new countries, I'm always on the move to explore!
 
-I am a Computer Software Engineering Graduate Student at Northeastern University. My key areas of interest are Software Development, Software Design and Java Programming and I am aligning my coursework at Northeastern University to enhance and deepen my skills along with learning new industry trending technologies.
+I am a recent CS Grad from Northeastern University. I am passionate about building scalable, data-driven applications. I look forward to working at a leading technology company where I can contribute to solving challenging problems and grow as a Software Engineer. My experience includes designing robust backend systems and leveraging AI & Machine Learning to drive efficiency. I've designed and implemented event-driven microservices and built ML models to automate digital products & customer interaction workflows. 
 
-I have 1.5 years of work experience as a Software Developer Engineer and 6 months of internship experience at First Help Financial (both Fin-Tech Product Startups). I have worked on building reliable and performant backend microservices using Java Spring for the Debt & Loan Origination Banking Products. Working in the Financial sector has provided me with the opportunities to learn and develop solutions for real-world applications.
+I thrive on turning ideas into reality, from award-winning hackathon projects to complex system integrations. Recommendations given to me, highlight my maturity as an engineer, consistent performance, and ability to take up tasks with a great sense of responsibility. I am also praised for remaining calm under pressure, delivering under time constraints, and exhibiting extreme ownership. With a strong foundation in Java, Python, Cloud computing, and AI, I am ready to tackle new challenges and make a meaningful contribution to a forward-thinking team.
 
-I am a problem solver and I love finding solutions to new and exciting problem statements. Recommendations given to me, highlight my maturity as an engineer, consistent performance, and ability to take up tasks with a great sense of responsibility. I am also praised for remaining calm under pressure, delivering under time constraints, and exhibiting extreme ownership!
+Contact me:
 
-Connect with me: [linkedin.com/in/ruchika-shashidhara/](https://www.linkedin.com/in/ruchika-shashidhara/)
+School Email: [shashidhara.r@northeastern.edu](mailto:shashidhara.r@northeastern.edu)
+
+Personal Email: [ruchika2311s@gmail.com](mailto:ruchika2311s@gmail.com)
+
+LinkedIn: [linkedin.com/in/ruchika-shashidhara](https://www.linkedin.com/in/ruchika-shashidhara/)
 
 
 ### 🔭 What I’m up to:
