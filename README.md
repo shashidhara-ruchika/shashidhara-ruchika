@@ -20,7 +20,7 @@ LinkedIn: [linkedin.com/in/ruchika-shashidhara](https://www.linkedin.com/in/ruch
 
 
 ### 🔭 What I’m up to:
-- Currently diving deep into **System Design**, **Backend Development**, **Generative AI**, and **Cloud Computing**
+- Currently diving deep into **System Design**, **Backend Development**, **AI Agents**, **Generative AI**, and **Cloud Computing**
 - Always looking to learn, unlearn, and grow with the tech community
 
 ### 💪 Skills
